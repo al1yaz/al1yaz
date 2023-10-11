@@ -1,5 +1,4 @@
-
-![portfolio](https://github.com/al1yaz/aliyazarena/assets/121778984/09a790aa-4af1-493f-971a-6c3672e98892)
+![portfolio](https://github.com/al1yaz/al1yaz/assets/121778984/bef8ef4c-6254-4d53-bd62-25f85b1ad8b3)
 <h3 align="left">About me:</h3>
 👩🏻‍💻 I’m currently learning **Alteryx Design and Python Language**
 
