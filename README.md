@@ -10,7 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aliya-zarena-239469270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliya-zarena-239469270" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@al1yaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aliya zarena" height="30" width="40" /></a>
+
+<a href="[https://www.youtube.com/c/@al1yaz](https://www.youtube.com/channel/UCbE067g7pQ7Kh3sb4fsA5Fw)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aliya zarena" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
