@@ -2,8 +2,7 @@
 <h3 align="left">About me:</h3>
 👩🏻‍💻 I’m currently learning Alteryx Design and Python Language
 
-📫 How to reach me **aliya.zainul@gmail.com**
-
+📫 How to reach me **aliya.zainul@gmail.com** 
 📄 Know about my experiences from [my resume](https://drive.google.com/drive/folders/1jek4rnPNroJZWvw2bvfY4rggrgo7Jlv7?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
