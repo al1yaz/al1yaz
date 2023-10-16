@@ -1,4 +1,5 @@
 ![portfolio](https://github.com/al1yaz/al1yaz/assets/121778984/bef8ef4c-6254-4d53-bd62-25f85b1ad8b3)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=al1yaz&label=Profile%20views&color=0e75b6&style=flat" alt="al1yaz" /> </p>
 <h3 align="left">About me:</h3>
 
 - 🌱 I’m currently learning **Alteryx Design and Python Language**
