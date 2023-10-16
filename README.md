@@ -1,5 +1,6 @@
 ![portfolio](https://github.com/al1yaz/al1yaz/assets/121778984/bef8ef4c-6254-4d53-bd62-25f85b1ad8b3)
 <h3 align="left">About me:</h3>
+
 - 🌱 I’m currently learning **Alteryx Design and Python Language**
 
 - 📫 How to reach me **aliya.zainul@gmail.com**
