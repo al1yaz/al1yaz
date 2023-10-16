@@ -2,7 +2,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=al1yaz&label=Profile%20views&color=0e75b6&style=flat" alt="al1yaz" /> </p>
 <h3 align="left">About me:</h3>
 
-- 🌱 I’m currently learning **Alteryx Design and Python Language**
+- 🌱 I’m currently learning **Alteryx Designer and Python Language**
 
 - 📫 How to reach me **aliya.zainul@gmail.com**
 
