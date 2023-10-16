@@ -6,6 +6,13 @@
 
 📄 Know about my experiences from [my resume](https://drive.google.com/drive/folders/1jek4rnPNroJZWvw2bvfY4rggrgo7Jlv7?usp=sharing)
 
+
+- 🌱 I’m currently learning **Alteryx Design and Python Language**
+
+- 📫 How to reach me **aliya.zainul@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1jek4rnPNroJZWvw2bvfY4rggrgo7Jlv7?usp=sharing](https://drive.google.com/drive/folders/1jek4rnPNroJZWvw2bvfY4rggrgo7Jlv7?usp=sharing)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
